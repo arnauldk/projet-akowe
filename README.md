@@ -27,7 +27,7 @@ projet-akowe/
 │
 ├── notebook.ipynb          # Analyse finale
 ├── notebook_initial.ipynb  # Manipulations initiales
-├── df.csv                # Dataset final nettoyé
+├── data/df.csv             # Dataset final nettoyé
 ├── requirements.txt        # Dépendances Python
 └── README.md               # Documentation
 ```
