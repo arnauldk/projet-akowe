@@ -36,7 +36,7 @@ python -m venv venv
 venv/Scripts/activate 
 # Activation de l'environnement virtuel sur MacOs ou Linux
 source venv/bin/activate
-
+ 
 #Important: Activer l'environnement virtuel avant d'installer les dépendances
 
 Installer les dépendances :
