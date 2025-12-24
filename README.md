@@ -14,9 +14,9 @@ Il repose sur un important travail de **préparation, réduction et analyse de d
 
 Pour répondre aux objectifs de l’étude, un travail approfondi de **filtrage, sélection et transformation** a été réalisé afin d’obtenir un dataset exploitable et pertinent.
 
-Le résultat de ce processus est le fichier **`df-1.csv`**, qui constitue la base **unique** de l’analyse finale.
+Le résultat de ce processus est le fichier **`df.csv`**, qui constitue la base **unique** de l’analyse finale.
 
-👉 **Toute l’analyse du projet repose exclusivement sur `df-1.csv`.**
+👉 **Toute l’analyse du projet repose exclusivement sur `df.csv`.**
 
 ---
 
