@@ -30,6 +30,7 @@ projet-akowe/
 ├── df.csv                # Dataset final nettoyé
 ├── requirements.txt        # Dépendances Python
 └── README.md               # Documentation
+```
 ##  Architecture du projet
 notebook.ipynb
 data/
