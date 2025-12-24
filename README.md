@@ -30,6 +30,15 @@ Les fichiers volumineux (PowerPoint) sont stockés sur Google Drive :
 ```bash
 git clone https://github.com/arnauldk/projet-akowe.git
 cd projet-akowe
+# Création de l'environnement virtuel
+python -m venv venv
+# Activation de l'environnement virtuel sur Windows
+venv/Scripts/activate 
+# Activation de l'environnement virtuel sur MacOs ou Linux
+source venv/bin/activate
+
+#Important: Activer l'environnement virtuel avant d'installer les dépendances
+
 Installer les dépendances :
 pip install -r requirements.txt
 
